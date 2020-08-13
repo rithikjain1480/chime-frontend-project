@@ -1,0 +1,11 @@
+.childCategory {
+    margin-top: 20px;
+    display: inline;
+}
+
+.childCategory h3.ui.header {
+    display: inline;
+    font-size: 22px;
+    margin-top: 0px;
+    font-weight: normal;
+}

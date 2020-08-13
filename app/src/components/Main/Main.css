@@ -1,0 +1,39 @@
+#root {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.App {
+    padding-top: 0px;
+}
+
+.main {
+    width: 70vw;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.main .ui.fluid.accordion {
+    margin-right: 10px;
+    /* margin-top: 110px; */
+}
+
+.main .ui.styled.accordion .accordion .active.title, .main .ui.styled.accordion .accordion .title {
+    padding-bottom: 0px;
+}
+
+.main .ui.styled.accordion .active.title, .main .ui.styled.accordion .title {
+    padding-bottom: 0px;
+}
+
+.main .ui.accordion .accordion {
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+p {
+    color: rgba(50,50,50,1);
+}

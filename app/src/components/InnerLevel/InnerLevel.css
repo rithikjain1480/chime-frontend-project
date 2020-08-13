@@ -1,0 +1,7 @@
+.inner {
+    margin-left: 30px;
+}
+
+.ui.accordion .accordion .inner .active.title .dropdown.icon, .ui.accordion .accordion .inner .title .dropdown.icon {
+    font-size: 15px;
+}

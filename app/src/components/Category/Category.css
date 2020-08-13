@@ -1,0 +1,17 @@
+.category {
+    margin-top: 20px;
+    display: inline;
+}
+
+.category h2.ui.header:hover {
+    /* text-decoration: underline; */
+    /* font-size: 30px; */
+    opacity: 0.5;
+}
+
+.category h2.ui.header {
+    display: inline;
+    font-size: 28px;
+    margin-top: 0px;
+    font-weight: normal;
+}

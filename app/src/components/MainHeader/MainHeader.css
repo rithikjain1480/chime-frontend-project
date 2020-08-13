@@ -1,0 +1,28 @@
+.mainHeader {
+    /* margin: auto; */
+    margin-bottom: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    color: white;
+    background: rgb(28, 217, 148);
+    /* background: rgba(255,178,178,1); */
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.mainHeader i.icon {
+    display: inline;
+    font-size: 28px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.mainHeader h1.ui.header {
+    display: inline;
+    font-size: 40px;
+    margin-top: 0px;
+    font-weight: normal;
+    color: white;
+}
